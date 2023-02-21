@@ -20,7 +20,6 @@
             string line = sr.ReadLine();
             City c = csvReader.readCityFromCsvLine(line);
             Console.WriteLine(c.cityName);
-            Console.WriteLine("Jakub Gajewy");
         }
     }
 }

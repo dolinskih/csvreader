@@ -8,8 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _10_kolekcje_tablice_2
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\student\Desktop\git_21_02_2023\csvreader\10_kolekcje_tablice_2\
-=======
 build_property.ProjectDir = C:\Users\student\Desktop\csvreader\10_kolekcje_tablice_2\
->>>>>>> 932064a2a5dbd1766b88db1cc890864b28613030

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student\\Desktop\\10_kolekcje_tablice_2\\10_kolekcje_tablice_2.csproj",
+      "projectUniqueName": "C:\\Users\\student\\Desktop\\git_21_02_2023\\csvreader\\10_kolekcje_tablice_2\\10_kolekcje_tablice_2.csproj",
       "projectName": "10_kolekcje_tablice_2",
-      "projectPath": "C:\\Users\\student\\Desktop\\10_kolekcje_tablice_2\\10_kolekcje_tablice_2.csproj",
+      "projectPath": "C:\\Users\\student\\Desktop\\git_21_02_2023\\csvreader\\10_kolekcje_tablice_2\\10_kolekcje_tablice_2.csproj",
       "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student\\Desktop\\10_kolekcje_tablice_2\\obj\\",
+      "outputPath": "C:\\Users\\student\\Desktop\\git_21_02_2023\\csvreader\\10_kolekcje_tablice_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
